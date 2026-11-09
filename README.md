@@ -1,16 +1,18 @@
-## Hi there 👋
+ # Hi, I'm Issa Cissé 👋
 
-<!--
-**issa-cmyk/issa-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year (3A) student at **École Polytechnique** (Applied Mathematics), focused on **machine learning for healthcare**.
 
-Here are some ideas to get you started:
+I build and ship real ML products end to end — from clinical data collection to honest evaluation to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 What I work on
+- **Yako — anaemia screening from a phone photo.** Smartphone screening for iron-deficiency anaemia from an image of the eye's conjunctiva. I own the whole pipeline: clinical dataset, feature engineering, evaluation, deployment. → [Meditect/yako-anemia-eye](https://github.com/Meditect/yako-anemia-eye)
+- **Medical LLM assistants.** Conversational triage and clinical-summary agents running in production: tool-calling, cost/latency budgets, guardrails.
+
+### 🧪 How I work
+Statistics first. I audit the raw data as much as I build the model — I don't trust a result I can't explain.
+
+### 🛠️ Stack
+Python · PyTorch / scikit-learn · FastAPI · LLMs & agents · OpenCV
+
+### 📫 Reach me
+issa.cisse@polytechnique.edu · 🌐 [issa-cmyk.github.io](https://issa-cmyk.github.io)
